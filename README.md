@@ -1,2 +1,2 @@
 # projecteulerPY
-projecteuler.net done with Python programming language. Work in progress.
+Coding exercises from projecteuler.net, done with Python programming language.
